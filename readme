@@ -1,0 +1,9 @@
+
+
+
+
+
+DROP TABLE `vcht_logs`, `vcht_messages`, `vcht_operators`, `vcht_settings`, `vcht_texts`, `vcht_users`;
+
+
+DROP TABLE `chat_logs`, `chat_messages`, `chat_operators`, `chat_settings`, `chat_texts`, `chat_tickets`, `chat_users`;
